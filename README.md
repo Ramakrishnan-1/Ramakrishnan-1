@@ -1,4 +1,4 @@
-<img  align="center" src="https://github.com/Ramakrishnan-1/Ramakrishnan-1/blob/main/Header.jpg?raw=true" alt="banner" width="850" height="450"/>
+<img  align="center" src="https://github.com/Ramakrishnan-1/Ramakrishnan-1/blob/main/Banner.jpg?raw=true" alt="banner" width="850" height="450"/>
 <!-- <h1 align="center">Hi 👋, I'm Ramakrishnan</h1> -->
 <h3 align="left">A passionate software developer focused on O365 Technologies</h3>
 
