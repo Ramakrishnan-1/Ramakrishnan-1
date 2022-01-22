@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://www.c-sharpcorner.com/members/ram-rama3](https://www.c-sharpcorner.com/members/ram-rama3)
 
-- 💬 Ask me about **JavaScript, SharePoint, Power Platform**
+- 💬 Ask me about **React JS, JavaScript, SharePoint, Power Platform, Azure**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
